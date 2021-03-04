@@ -1,2 +1,0 @@
-# PythonBasics
-Pyton basics homework
